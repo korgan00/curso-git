@@ -2,7 +2,7 @@ Curso Git
 =========
 
 Hola hola.
-*Linea añadida por Raspi :)  Besitos*
+*Linea aÃ±adida por Raspi :)  Besitos*
 
 Semen
 (No hay tiempo para pensar en estas cosas)
